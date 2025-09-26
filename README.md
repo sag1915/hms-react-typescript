@@ -1,4 +1,7 @@
 # React + TypeScript + Vite
+Access denied to push 
+1.cmdkey /list 
+2. cmdkey /delete:git:https://github.com  -- clear credential 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
